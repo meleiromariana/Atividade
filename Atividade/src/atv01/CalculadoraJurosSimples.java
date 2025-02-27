@@ -1,3 +1,5 @@
+//Victoria Maria Almeida de Sousa 11241100640
+// Mariana Meleiro Rubinho 11241100704
 package atv01;
 import java.util.Scanner;
 import java.util.Locale;
